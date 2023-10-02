@@ -11,7 +11,7 @@ A='ns.sg15.ismaelsakalam.online'
 LOOP_DELAY=5
 
 ## Add your DNS here
-declare -a HOSTS=('112.198.126.124' '112.198.126.116' '112.198.126.44' '112.198.115.44' '112.198.115.36' 124.6.181.36' '124.6.181.20' '112.198.115.60' '121.54.70.150' '121.54.70.132')
+declare -a HOSTS=('112.198.126.124' '112.198.126.116' '112.198.126.44' '112.198.115.44' '112.198.115.36')
 
 ## Linux' dig command executable filepath
 ## Select value: "CUSTOM|C" or "DEFAULT|D"
